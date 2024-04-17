@@ -1,5 +1,5 @@
 {
     "title": "MMASP",
-    "description": "Mojimon market average share price 40900",
+    "labels": ["4月13日", "4月14日", "4月15日", "4月16日", "4月17日"],
     "values": [39720, 42900, 45090, 48030, 40900]
 }
